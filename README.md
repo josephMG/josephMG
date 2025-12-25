@@ -53,7 +53,7 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=josephMG&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="JosephMG's Stats" />
   
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josephMG&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="JosephMG's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=josephMG&theme=tokyonight&layout=compact&hide_border=true" height="160" alt="JosephMG's Top Languages" />
 </div>
 
 <br />
